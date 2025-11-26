@@ -40,8 +40,9 @@ Linux • Java • SQL • Python • Data Visualization • Tableau • Advance
 ## 📈 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aviram25&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aviram25&show_icons=true&hide_border=true&theme=radical" />
 </p>
+
 
 
 
